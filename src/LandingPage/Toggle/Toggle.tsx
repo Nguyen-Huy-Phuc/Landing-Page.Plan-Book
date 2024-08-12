@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import { useContext } from "react";
 import "./Toggle.css";
 import { CiCloudSun } from "react-icons/ci";
 import { CiCloudMoon } from "react-icons/ci";
